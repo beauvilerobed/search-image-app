@@ -1,0 +1,32 @@
+.App {
+  background: linear-gradient(to bottom, rgba(255,255,255,0.15) 0%, rgba(0,0,0,0.15) 100%), radial-gradient(at top center, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.40) 120%) #989898;
+  background-blend-mode: multiply,multiply;
+}
+.search-form{
+  min-height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  position: fixed;
+  width: 100%;
+}
+.search-bar{
+  border-bottom-left-radius: 10px;
+  width: 50%;
+  border: none;
+  padding: 10px;
+}
+.search-button{
+  border-bottom-right-radius: 10px;
+  background: darkgray;
+  border: none;
+  padding: 10px 20px;
+  color: white;
+}
+.photoCollection{
+  padding-top: 50px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
