@@ -13,6 +13,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 3.  `cd Search-Image-App`.<br />
 4.  Run `npm install` in order to install dependencies.<br />
 5.  To get a Flickr API key for API_KEY variable check out: https://www.flickr.com/services/api/misc.api_keys.html
-    _At this point you can run `npm start` to see the example app at `http://localhost:3000`._
+    
+At this point you can run `npm start` to see the example app at `http://localhost:3000`.
 
 Now you're ready to rumble!
