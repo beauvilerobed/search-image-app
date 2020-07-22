@@ -2,6 +2,12 @@ Search-Image-App
 
 This project is one-page app that uses a photo search API (Flickr api) via AJAX to search for images and display them.  
 
+![Demo](public/demo.gif)
+
+####  To get a Flickr API key for API_KEY variable check out
+
+https://www.flickr.com/services/api/misc.api_keys.html
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### Available Scripts
@@ -70,7 +76,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ####  `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-
-####  To get a Flickr API key for API_KEY variable check out
-
-https://www.flickr.com/services/api/misc.api_keys.html
